@@ -14,5 +14,9 @@
 		{"pattern":"*.docker.izzp.me/*", "zone_name":"izzp.me"},
 		{"pattern":"docker.docker.izzp.me", "custom_domain":true},
 		{"pattern":"ghcr.docker.izzp.me", "custom_domain":true},
+		{"pattern":"quay.docker.izzp.me", "custom_domain":true},
+		{"pattern":"gcr.docker.izzp.me", "custom_domain":true},
+		{"pattern":"k8s-gcr.docker.izzp.me", "custom_domain":true},
+		{"pattern":"k8s.docker.izzp.me", "custom_domain":true},
 	],
 }
